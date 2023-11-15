@@ -8,3 +8,7 @@
 # I have just been sooo fucking lazy and lacking the right motivation
 # Need very serious help at the moment
 # But i plan to change all that very soon, I strongly believe in myself and all of my dreams
+
+def Chibueze (){
+    
+}
